@@ -1,0 +1,680 @@
+to get presentations from STC and then Ericsson is going to describe as well the questioners that
+they have done for two of the CSPs. So I guess, Daniel, they were saying we're going to start with you.
+Yes, can I share my screen? You should be able to share now, yeah. Okay.
+I'm not
+Not sure why the sharing is not working.
+Yeah, but clicking on that, not sharing my slides on my desktop.
+for some reason. Do you have two screens? There's only one. Only one screen? Yeah, normally
+you click the share screen button and then click the select the screen.
+We see your screen now. Do you see the slides?
+We see one question here by SDC.
+Yeah, yeah, yeah, okay, sorry. So further, yeah.
+Okay, so I tried to put a slide on the feedback we got from our vendors.
+So let me go to the slide now.
+See if it works.
+Do you see the slides now?
+Yes.
+Okay, so basically our network is
+network is we have three radio vendors and each radio vendor has its own NMS and or RSS
+Liar. Basically we got the response from the three RSS vendors and we discussed with them
+the questionnaire and with the vendors advisors they have some sort of a response to the
+With the vendor's advice, they have some sort of partial automation in each vendor area.
+And all that automation happening at other OSS layers, rather than the NMS layer.
+And they use tools such Netcool, UFM to handle alarm,
+and this FM type ticketing and similar task.
+So we got the feedback from three of them.
+Some of them use
+SON, some of them use SMO, advanced type
+sort of architecture, and some of them do not have this
+do not have this luxury of having like advanced automation, but it will happen in the future.
+So overall, SESLAYA really, it's a multi-vendor fault management system, capable of receiving
+alarm from all vendors on all domains. This is the outcome of the three vendors feedback.
+I've tried to summarize it here in one slide.
+Basically, from an intent-driven questionnaire,
+we found it's a partial.
+One vendor claim it's fully automated.
+But really, when I discuss that sort of feedback with them,
+I got the conclusion it's really B,
+but they claim it's a similar to the data collection,
+which I think they are a bit advanced
+from that perspective,
+Alan filtering the one vendor claim
+it's totally automated and the rest of the feedback
+you can see in the slide there.
+So I'll go by one by one, next slide.
+Basically, I tried to divide the questionnaire feedback into because our network structure
+like we have central, eastern, western type coverage from different vendors.
+So I tried to capture their feedback based on a region based rather than vendor based
+to not to go through this confidentiality issue to mention a vendor here.
+So one vendor mentioned that they have very advanced M&M systems, but they have the tools
+to enable quality of the structure.
+One vendor indicated that they can do that based on predefined rules.
+I'm sure this pic here
+Another vendor mentioned that they have
+Suppression on question rules basically they can provide these policies
+So that's the feedback on the intent
+Based on the data collection alarms
+I
+have two vendors
+One is claiming it's fully automated from data collection on automation.
+One vendor mention is partial.
+And I put some of the picks based on the feedback, the slide.
+So you can see that different vendors deal with that sort of this management process
+differently.
+But the claim is they have some sort of the system that can automate the data collection
+and alarm filtering.
+The other feedback I got on the fault
+identification, risk prediction, demarcation,
+basically it's all partial, needs manual intervention.
+But one vendor mentioned that they have many
+a model that implements AI/AM machine language, artificial intelligence to monitor and report
+these fault management conditions. They have many self rules they can define to acquire
+that sort of protocol.
+- Well, from decision and execution,
+what I found, it's early days now,
+although we are implementing SMRs,
+and we have some solutions,
+but two of the vendors mentioned
+it's they don't support that intelligence,
+which they market as C.
+But with the vendor we have with the SON,
+it looks like they automated all the fault management
+through the song platform.
+Yeah, so this is the feedback and
+I will sort of send that to you Nick and Pedro,
+so you can add it to the folder there.
+No, no, I was going to say, are there any questions?
+Right, yeah, one question.
+So I guess in these situations where you're
+asking the supplier, they could either
+be responding with what's theoretically
+possible with their equipment and their systems,
+or else they could be applying with, here's what we are.
+Actually, we've actually implemented
+as an end-to-end process in your actual network operations.
+Do you know in this case, which is correct,
+what answers you were getting?
+And I think as this cannot be in the conversations
+or last week's call as well,
+I think it would help for us to clarify the question of,
+are we looking at the potential of the network equipment
+or are we looking at the actual implementation
+when we're doing this instance?
+- Yeah, it's a mixed bag actually.
+It took me three iterations of discussions
+to get an outcome with our vendors.
+First, I think they--
+well, first I think ignore me.
+Second iteration, they provide the answer
+with what is available.
+And third iteration, they put some of their capabilities
+like the SMO, like the SON, like some sort of running
+our apps on top of their platforms,
+top of the somehow to run that sort of automation.
+So I would say on the next back of their capabilities
+plus what is coming soon.
+Example, the [INAUDIBLE]
+Next quarter, we have the platform integrated.
+So they are considering that automation as well.
+the zone we have it already in one region, already taking care of the fault management
+or sort of, so I would say it's sort of a mixed feedback.
+And in your network, Daniel, are you relying on the vendors to manage and operate fault
+management or is it actually STC staff that is running operations?
+Yeah, the way it works, STC operation manage, like they have some sort of overall umbrella
+on top of the managed service of each vendor.
+So, yeah, got it.
+Daniel's gone quiet for me.
+Has anybody else got the same?
+- Yeah, no, he's gone quiet.
+- Am I still there?
+Yeah, I'm still here, I think.
+Okay.
+- So the, yeah.
+For the follow up on the earlier questions.
+So STC oversee all the alarms coming in from different vendors network into one big knock
+center?
+Yes, correct.
+We have a big one capture all that from all three vendors.
+Okay.
+But in this questionnaire response, you actually say respected to different vendors.
+You do not evaluate it from this multi-vendor perspective, right?
+They are independent.
+I asked first I went to our operation team but they refused to share their
+feedback so I had to go through the defenders themselves through the
+network element managers to provide me the feedback to be frank.
+Okay yeah also very nice I see in your presentation for the selection some of
+of the you have some screenshot those like evidence to support that selection.
+Yes, correct. Two vendors provide me with some sort of snapshots. Have a look if you
+need more we can I can get more from them. Yeah.
+Okay. Thank you.
+Great. So can I ask, I mean, you will send your presentation to Alan so we can.
+I will email after this meeting, I will email Alan all the evidence, all the slides, you
+can have it there.
+But one of course I have just keep it confidential like with the TM Forum members only.
+I would request not to share it with external partners.
+Understood.
+Yeah.
+It will be in a project space that will only be project members if that happens.
+Thank you. I think this is a very interesting example and a typical one where a multi-vendor
+network is being assessed. I think one of the things that we can decide as a group is
+how to treat those scenarios. For instance, as it came up last week as well, providing
+clarification that I think we should be measuring the actual implemented capabilities rather
+than the potential capabilities of the equipment. And then secondly, how to aggregate. So if
+you've got a multi-vendor network, but you know, let's say 50% is provided by one vendor,
+30% by another and 20% by a third in terms of capacity, for example, then how should
+we score that? Should we do a weighted average to get an overall score? Or, you know, what
+was the right approach? But this is one of the two proposed task forces, is to address
+the specific question about how to manage native vendor networks. Daniel, I wonder if
+you wanted to, would be willing to participate in that task force. We said that we would,
+you know, for these questions, or we want to create some guidance for all of the, you
+you know, anyone in future doing these scenarios, these assessments, whether we can actually
+create some guidance as part of this project team, which will then be published alongside
+the rest of our findings.
+Yeah, the way I interacted with these guys, I got the feedback separately, but I sat and
+about their capabilities individually to be more practical than to take the less sort
+of practical feedback from their end because they keep mentioning that this future will
+be coming in the future this coming so I think because it's better to take it as an
+more like basically to assess three of them and see what's feasible
+beyond the flow of other feedback. Well, thank you speaking. I'm happy to support you,
+but this one is not my area of expertise, like more like an access site.
+So my contribution will be that I can engage other people to join and contribute.
+There will be more valuable.
+For me, I have to go back to our SUS team and ask many questions again.
+The fact is, speaking of our phone, it's a bit difficult to get details and information
+even from the third party vendors.
+So hi.
+Sounds like you had to work very hard for this.
+Thank you so much for that, Daniel.
+It was very much appreciated that you went to that trouble and presented so nicely.
+Thank you.
+Thank you, Daniel.
+Can I ask, actually, I don't know if it's Mohammed.
+Are you going to present the core question today?
+Is there anybody from STC?
+Yes, yes.
+We are going to send a message from the Mohammed Amin.
+Mohammed Amin, I would like to show the outcome for the push here in mobile court.
+Perfect. So let's go ahead. I think we are consuming a lot of time. So please, what a sign?
+I'm going to share this line.
+I see your screen.
+Oh perfect.
+OK, as you know, we are Mr.
+She have multiple vendors and we
+work in the world domain and to
+get the feedback and person
+dated in one outcome.
+As you see here, this is the
+for the questionnaires and for the average method we get 3.05 and for
+plan-bing method we get 2.71. We are going to go into detail for the
+questionnaires that need evidence. I will go to the next slide if you don't have any
+question in this. So for the data collection and
+observations we have option B as the system automatically can collect the data and associate
+along and as you see here in the below that evidence that come from our systems
+shows that the world alarm can be curated with a related alarm based on manual rule
+and also this is mentioned in the manual project manual
+I don't want to go to the next slide.
+For identification and visualization.
+We have here option A, our evaluation is option A.
+As you see here, we have some options
+from our running assistant that shows--
+they will zoom out so you can see that it's here--
+show the network health status and also can show
+the network function service and the VM statistics,
+all information that we need to check about the health
+and the status of the network element
+and network functions.
+And also in the right side,
+this is the documentation from the network function.
+For the fault identification and visualizations, we get option B as our system supports the
+communications for the core network and also supports the location of the frozen teleporter.
+So in the below, you can see the evidence from our system.
+As you see here, this is the code domain.
+Sorry, not code domain.
+And here is the failure process.
+It shows that what is the causes
+that have been in this domain.
+And if you click in this, you will get more detail,
+which is the location of the host and network elements.
+We'll give you more details.
+The next slide, this is about limited fault recovery
+without surface benefits.
+And we get option A, as we have
+automatic risk assessment and also recovery risk assessment.
+Actually, here we have suggestions to have another option for a partial automatic risk
+assessment because some cases is not automated. It's done manually and the most service is
+done automatically. So we suggest to have option B, another option which is option B
+for the partial automatic risk. This is our evidence. As you see here, the control plane
+can handle if there is any issue regarding the network element. It can recover the service
+by wanted to add a lot of procurement.
+And also inside the procurement,
+there is a self-healing for its component
+in case if there is any failure will happen automatically.
+Also in the cloud resources,
+if there is any issues in the VMs or any service,
+it will be here automatically.
+service verification and analysis.
+And here,
+our evaluation is option B
+in case the
+the vocabulary is done.
+This is the verification to make sure
+that the vocabulary is done
+correctly without any issues.
+This is a snapshot from our systems
+to show you that the KBI comparisons
+and the log observations and plastic,
+such a blood pressure and surface replication feedback
+once the recovery is done.
+And also if there is any issue,
+how it will be a bit here in the abnormal alerts.
+This is for stable development architecture.
+Our application is a relay of architectures.
+And as you see here, we are support option A.
+For this, we have three line architectures, as you see here.
+And also most of the service is redundant.
+And this is an option from the system to show that most of the system is redundant.
+at least three as mentioned with option A and also for load balance.
+Also we have three load balance in case if some one get fault the other one take the
+And also for the distributed DB. As you see there, the level of the environment is relatively time. I'm going to the other system, which is disaster recovery capability.
+We get option A here.
+As you see here, there is an event of data network element of the UVM and also a backup
+control from NME and MF and also three data centers that are of network element and distributed
+This is the evidence. This is the license.
+This is the license for the MME, for the agency.
+This is a snapshot from our system.
+Here it will show that UDM is written three times in the three different data centers.
+and there is a synchronization between them to keep the latest data.
+And really, this is the license for the...
+for the main chain of the interface.
+Okay. For anti-signaling C-H capability,
+we support option A. As you see here,
+below are the synapse sheets from the system show that the license form
+have to reach is available here and enabled and also for ACB
+also enabled here as you are passing and also the end-to-end service.
+SCB as you see here, the distribution of the company.
+This is our architecture as you see here.
+We have it there three times in case if there is a note
+on the...
+So a CB can take off a cloth control
+in case if there is a projections.
+This is functional by bus capability.
+We have option A here.
+And this is the evidence from the manual,
+that manual, it will be in HSS for us by bus and also for NME, also for VCRF and VCF as
+well for OCS and also the management.
+So this is for NRS and storage for players.
+I think that you have reached to the last slide.
+If you have any question or any comment, you can share it with us.
+Thanks very much.
+This is the other speaking.
+Just a quick question if I can.
+Is my understanding correct that all your core is virtualized?
+I cannot answer.
+Mr. Hamad Ali, you can get your note again.
+Hi, we have-- you know the case for most of the Brown field
+operators, we have multiple products
+interworking together.
+We still have some of the domains,
+are still having parts of it as PNFs or physical,
+while others are virtualized and we have also containerized.
+- Okay, because you know what,
+it would be good to understand because the feeling
+was that the questioner was filled for the part
+which is virtualized.
+And that's why I agree that you are scoring very high.
+I wonder if you would be taking into consideration
+the entire call, including the Brownfield part,
+what would be the proposal?
+- Yes, we have this feeling, by the way,
+by going through the survey,
+that it's targeting by definition for the requirements,
+it's targeting the virtualized part,
+not the physical part.
+Because as you know,
+some of these by design are not supported
+in physical part.
+Yeah, this is not a complaint, it's just an observation because for the data analytics
+and comparing between the operators, it would be good to market here and say, "Yeah, okay,
+maybe 50% of our core."
+I'm not referring to you particularly, but to any operator who is submitting the data,
+that, "Okay, 50% is virtualized, another 50 is not yet, maybe it would be migrated."
+not to create a misperception because if somebody knows you better than you may say, "Oh, great,
+you are a master of thumbing this man."
+Thanks for the question, Jacek.
+Guys, I think we're running a little bit late, so Kadeja is saying, "Are you going to send
+Alan the presentation so we can upload it and people may be able to put comments in
+the conference page. No problem, we can share it. I feel it is a bit confident between the
+team from the team. Thank you very much for that. We did have another Ericsson team was
+going to present a question actually for questioners for two CSPs to run the course. Dave, I think
+Yes, it's me. Can you hear me, Fernando? I hear you very well. If you want to start
+sharing, please. Okay. Hopefully I got this right. Sorry,
+I don't make much use of the same book, but if you can see…
+I see your screen. I see your presentation and it is in presentation mode. So go ahead,
+please. Excellent. Very good. Okay. So I'll take a
+slightly different approach to what the other two people have presented on here today. So,
+I'm David Condon from Ericsson Managed Services. So, we're looking at this, I suppose, primarily
+from an operations or primarily from a perspective of contracts that we support, our CSP degree is
+support from a managed services perspective. So far, we've created, we've completed the
+assessment on two of our contracts and we're working on a third one with the results expected
+next week. As it stands now, this is the summary of the scoring that we have for these two
+contracts or these two customers. One of them is looking at it only from a process perspective,
+so both RAN and Core, and in effect we're looking at what Telefonica had done last week, which was
+to take off the architecture piece for Core and then adjust the weightings accordingly for the
+the process section on ENCOR, so that's for CSP1, whereas for CSP2 we've looked at it
+in ENCOR in terms of a process and architecture. We looked at this in terms of primarily one
+fault management scenario per CSP per domain just to keep it a little bit simple and so
+on. This assessment was conducted with a combination of relevant domain and OSES SMEs and so from
+our perspective it wasn't too difficult to engage with the people in here. This is something
+we've been working on for a while. But it does take a little bit of time to get the
+right people together and to get the right understanding of what's trying to be achieved
+and the information and so on. And I guess that seems to be a bit of a common theme that
+we've seen from a couple of other people as well. So overall, this is the result. I have
+various spreadsheets behind this that we can share just to show how this comes together,
+at an aggregated scoring level, but also breaking it down in a little bit more detail. But I
+don't necessarily intend to go through that now unless there is a specific need to do
+that. So what I wanted to do then was to share our findings. So we have some kind of, I suppose,
+similar to the telephonic team last week, some kind of broader findings and also our
+view from the assessment as well. And equally we will share these. So conscious of time
+I've got quite a bit of feedback here, so I don't know if I want to go down through each of these.
+I think this is really the most important thing. So let's go for it.
+Yeah. Okay. Very good. So let's start at the top and work down. So we have found the framework
+overall very usable. It does bring value and as a framework and evaluation mechanism, and it is
+usable but it takes a bit of time to get people up to speed and educated on how it works and the
+various concepts behind it. And also even in trying to understand the logic of the scoring,
+you know, it's not about the formulas per se but it's the logic of how it works. So that took a
+bit of time and that really I suppose leads me into the second point here which is that education
+really is needed before this assessment execution or in broad terms not just for the assessments
+but education is really needed in the community globally because we are talking about a lot of
+new concepts here, new terms and so on. So it does take time to understand that. And I know even
+from our perspective, you know, there's some fantastic, a lot of fantastic material that's
+being created by TM Forum, but I think we need to aggregate it up a little bit so we can kind of
+cleared see the wood for the trees let's say because often it takes a lot of reading to get
+to the point of understanding what are the what is this all about and I'm trying to create a
+simplified view of things and so that has been a challenge and that I think is something that we
+should look at broader than just this assessment exercise that we're all going through. The
+objective of aiming for a greater level of autonomy of course is valid I mean that's the whole idea
+here is that we continue to go on this greater levels of autonomy to bring efficiency, scale,
+be able to deal with the more complexity that our networks are continuing to have. But also
+we need to have a clear recognition and an understanding of the ROI and the value that's
+achieved by doing this. It shouldn't just be, and maybe a lot of you are seeing this,
+we're still seeing a lot of people who are aiming for the score. We want to get to level
+three by this day without really having a clear understanding of what that really means.
+So I think there's a bit of work needed there and also just, and I think we all understand
+this anyway, we're not going to do this just because it's a cool thing to do. It needs to
+be anchored on value and ROI as well. Point number four, and again I think we need to take a look at
+what we mean by process and the autonomy. Are we focused on the part of a process where we can
+bring the greatest benefit from automation and autonomy? Or are we considering the end-to-end
+process flow as it relates to achieving the business outcome or the key effectiveness indicator?
+And from our perspective, we've looked at the latter. And I think then we need to consider
+where does field or remote hands as some people also refer to it, where does this come into this
+as part of the process and how do we factor that in? Because of course, if in the execution phase,
+if we're sending an individual to site to do something, then that's people driven. And
+you could argue that's a score of one. And I know there's been a compensation allowed
+for this, but we need to consider this in terms of ultimately it's about achieving the
+outcome and not just about achieving the score. I think the number five in terms of the consistency
+and clarity in the scoring mechanism, we've seen this, I'm sure all of you are seeing
+this. Different people have a different perspective of what the score should be. And so we should
+try to make it as simple and as consistent as possible so that we remove that subjectivity
+because two people could come up with two different scores for the same situation. I
+know we're not going to get to perfection on this, but we should at least try and simplify
+this as possible. So it becomes usable and it becomes a score that can be, or an output
+that can be commonly used. And which is really where I suppose it was going also with then
+with number six, which was to have a unified scoring mechanism with consistency and clear
+definition of options across all the processes and domains. And I know this is a huge piece
+of work. You know, we're focusing on thought management for RAN and Core. We've got many
+more network domains, we've got resource layer, service layer, we've got many other processes.
+So we should try and keep this as simple and consistent as we can so we can continue to
+evolve this and that we don't get caught up in trying to understand the vagaries of different
+mechanisms for different domains and different processes.
+And I guess that also then leads to seven is that it can end up then be challenging
+to do a broad-based benchmarking as the scenarios are either CSP specific, which is fine.
+So maybe they're one scenario, which is quite general,
+or whether we're getting into a deep dive
+on individual scenarios.
+So again, if we're wanting to use this as a comparison
+and a good benchmarking exercise,
+we need to put some bounds around the consistency of it.
+The very interesting one for us is number eight,
+which is automation saturation needs to be factored
+into determining the level of autonomy.
+We could be at, let's say level two,
+we could score at level two,
+but yet the level of automation for particular tasks
+could be significant or it could be quite low.
+And let me use an example there.
+Let's say we're at level two and we're doing auto ticketing.
+And maybe we say we're doing 20% auto ticketing.
+Okay, maybe that's good, maybe it's not.
+Maybe we're doing 70% auto ticketing.
+And that's been driven by a level of automation saturation
+at that task.
+We don't allow for that, I think,
+or it didn't feed for us any of the way we allow for that
+within the mechanism here of not just scoring,
+but also understanding the maturity
+and the level of automation
+that was in the individual task.
+And then, excuse me, I'll stop at this point.
+And then the last part here, at least from our perspective,
+and I think this was echoed last week as well,
+we feel we should decouple the assessment of the processes
+from the network architecture features.
+So let's stop there.
+David, just a quick question.
+I know that there is a privacy issue, but for us,
+I think for an audience, it would be good.
+If you could also say, OK, this is a provider X or Y,
+but some-- a little bit more information
+about what are the size of the network or geography,
+if possible, because then it will allow us also
+to do the comparison.
+I know that now we are having a kind of a friendly environment,
+right? And we can see is it a similar size operator, is it a similar geography, etc.
+If possible, if your contract is strongly this kind of disclosure, then of course, capital
+is.
+Yeah, I think we got, I'll come back on that. We can certainly give some indication of,
+you know, is it primarily one vendor or multi-vendor? Is it a small, medium, or large? Is it in,
+you know, this general region of the world? So I think we can come back with something
+for that.
+Thank you. Okay.
+Maybe a question from my end. Thanks for the excellent findings and a good summary.
+Just to get this perspective, so the first point you have, you say it's user put and brings the
+value. And then what I'm reading, let's say like the findings from let's say Fortinine,
+actually you are let's say like quite rightly it's a pinpointing, some missing elements, so let's say
+bottlenecks for the usability of the subclasses.
+So, it's still a bit like on a high level.
+So you say that it's the value,
+but it's the value higher if we esteem here,
+we would say like back on those items
+in the coming few weeks.
+So, like, so what's this useful at the end of the day?
+Like, you know, if I did in those statements,
+I mean, I'm actually sitting with,
+yeah, it's like a person in the service,
+but at the end of the day,
+and it has lots of interpretation. How do you say it? I think overall it's useful.
+We feel that this gives a good structure in which you can talk about levels of automation within
+process and have a common language and a common discussion with people and be able to ground it in
+the automation of process as opposed to just get caught up in talking about this type of ML or
+this type of automation or this many use cases or this or that. You need to anchor it on something
+that gives you a way of leading to an outcome. And I think this goes a long way to doing
+that. Yes, there are areas of improvement, of course, and we're all seeing this, but
+overall it is very, very useful. And I've spoken to a number of CSPs in the last few
+months on this, and straight away you can start to have a much better discussion around
+trying to achieve through this mechanism as opposed to getting bogged down in talking about tools or talking about individual AI techniques or automation models and so on.
+So David, so number eight, automation saturation, this is a very interesting point. Should we create a sub-task team to study this a little bit more and to see what kind of a proposal we could bring in?
+I think we need to look at how we would bring this in, yes.
+I mean, if that's the best mechanism to do this for them, then that's okay.
+One of these things are very good material for us to present in our initial findings and discuss.
+We have this session at DCW where we can share some of our findings with the world.
+Yeah, really very interesting I thought.
+On the point about removing the subjectivity, I think that's, you know, this is number five.
+I think we're looking to see how far we can get with that.
+Can we supplement the questionnaires with enough sort of detailed guidance that it removes
+the subjectivity so that anybody taking the same questionnaire, assessing their network
+comes up with the same result. I think that's a, it seems from what we've seen so far, but that is
+quite challenging, but potentially it's doable as long as we really provide very detailed level
+of guidance on how to interpret and maybe do some enhancements to the questionnaire.
+Yeah, in a sense also you're into simplicity because we need to make it simple for people
+to understand because if they're trying to interpret things then it becomes subjective and
+I know in trying to make it simple it can take a lot more work to make something simple than make
+it complex. But I think if we can have an overall aim of to try and keep it simple then it's much
+easier for people to use.
+Yeah, I agree here.
+Yeah, go ahead.
+Yeah, so one, so these self-assessments from our previous experience through other domains,
+not only on autonomous networks, self-assessments always have a degree of subjectivity.
+So I agree that these efforts will make the results closer across different self-assessments.
+However, it will always stay and that's why the external
+assessments are the ones that, for example, when we do the
+external ones, we try to avoid the subjectivity via two
+independent assessors that challenge each other before
+presenting the final result, and that creates an extra layer to
+fix any misconceptions.
+I agree.
+Again, conscious of time, so I just wanted to put up this slide here.
+This was just more so on the assessment itself.
+Just a couple of things came up here is that when we start getting infractional scoring,
+what do we really mean?
+You know, then if we get a score of 2.99 versus 3.1, there should be differentiation to say,
+well, there is a key characteristic or a unique characteristic of 2 versus 3.
+that should be understood as opposed to, well, it's almost the same. It's only 0.02 or whatever
+between the two points. So we need to again not get caught up in the score but have a
+recognition of what does the fractional scoring lead us to. The interesting one for us and
+we need to take a little bit more look at this is that the average method is perceived
+simpler to understand and there wasn't a whole lot of difference between the two methods
+when it come to RAN but there was quite a wide gap when it came to core and we just
+need to take a look at is that just something, is that because of how the operations are
+run or is it because of how the mechanism and formulas within the assessment sheet work
+and we haven't checked that yet, but we need to take a look at that.
+And then also in terms of the compensated score, maybe this was coming back to the,
+I understand where we were trying to go with the compensated score, especially when it
+comes to execution. I suppose in terms of this, maybe this was due to what I was talking
+about with field and remote hands, or maybe this is a way of trying to lift up the level
+autonomy but I think if we're going to put mechanisms like this into the Excel, we need
+to explain the operations logic or the business logic behind it as opposed to the Excel logic.
+And there's a few other points down here about
+kind of I guess alignment across the questionnaires and we raised this a few weeks ago
+that sometimes the questions and options are not quite aligned between RAN and Core and we kind
+to feel for some of the activities we don't see why there would be a difference between
+RAN and Core and therefore we would suggest to keep things simple that the structure should be
+the same between the two and just just see is there anything else I wanted to call out.
+Yeah and just the definition and use of scenarios I know and again looking back to the other
+materials that's all the fantastic material that's being created that in talking about scenarios we're
+we're trying to handle many different situations. And so the question we often get from our
+own people is what do we mean by scenario? And you know, we could have two scenarios
+or we could have 52 scenarios where how deep do we go when we talk about scenarios? So
+again, we probably need to be a bit more, maybe offer a little bit more guidance in
+how we would make use of scenarios then as well. So yeah.
+Dave, I think this is excellent feedback. Thank you very much. Can I ask again, can you please
+share with Alan whatever you think is appropriate so again we can put it into the conference
+page. Anybody else? We have five minutes. Any more questions for Dave?
+Yeah, one last question for Dave. So when you, this is a two different CSP, it's a two
+two different assessor or is it one assessor?
+- Well, we had a central team that was supporting
+the assessments, but the assessments were done
+on the ground by two different teams
+because they know how the operations are
+and they understand the particular CSP.
+So we tried to do a bit of normalization
+in the central team,
+but we need to take probably a little bit more look at that.
+- Okay, so you do have a central team
+to normalize a little bit.
+- Okay.
+- Thank you.
+- We'll do a normalization
+when we finish the third one next week.
+- Okay.
+- Okay.
+Can I please refer everybody to the,
+I think Andy just regarding the task forces,
+we want to use the conference page.
+So Andy, I don't know if you want to
+just quite the last few minutes.
+- Yes, sure.
+So I think as we're gathering the feedback,
+we're finding some issues that we need to sort of
+agree a position on to provide clarification.
+So this is some of the help that's going to remove
+some of the subjectivity from the questionnaires.
+There are a couple of big topics that came up last week.
+So one is really the big question about
+how to interpret level four,
+whether intent is required to achieve level four,
+intent-based automation,
+or if rules-based automation can do that,
+can qualify for level four.
+And the other is, you know,
+was this question of whether we need to go across domain,
+whether you can actually achieve level four
+within a single network domain or not.
+So I've set up a Confluence page,
+which is with two task forces, one to look at that,
+and the other to look at the tasks we've discussed today
+about multi-vendor networks.
+So in a multi-vendor network,
+should the A/N level assessments
+score the capabilities of the individual network
+equipment providers, or should that be aggregated up
+to an overall sort of averaging?
+And if so, how should that aggregation be done?
+And then also the, you know, just clarifying the question of,
+are we assessing the potential capabilities
+or the actual implementation?
+So there's, and then there are a few other sort of
+more minor things on those conference pages
+where I thought on the main page I've linked to there,
+you know, we can just sort of debate those
+in the conference page itself
+and see if we reach agreement there.
+But I think these two bigger task forces require
+perhaps a small group to work offline,
+have a discussion, anyone who's interested
+in those two topics to bring a recommendation
+to a future call to this group.
+So if anybody would like to,
+is particularly interested in either of those two topics,
+either defining level four, a bit more detail
+for how to call a multi-vendor network,
+please let myself or Alan or Fernando or Pedro know.
+And then if you would be willing to just coordinate
+with anyone else who's interested
+and bring a recommendation to the group,
+that would be great.
+Luckman, that's great.
+Are you volunteering for one or both?
+Are you there, Luckman?
+I see you've posted in the chat.
+- Both, both.
+- Fantastic, okay.
+That would be wonderful, actually.
+If you could, and then, so can we say then,
+if anybody is interested in those two topics,
+I think if you could let them know,
+like perhaps if you could just make sure
+everyone's got your contact details in the chat as well.
+Yeah, I'll help out as well.
+Then we can perhaps have some discussion on those offline.
+Maybe bring back our recommendation to next week's call.
+Thank you, Andy. Juan Pablo from Teleco Argentina. I know last week we said that you wanted
+some time to discuss some questions. I know we've run out of time today. Maybe we'll have
+to do that next week.
+Okay, okay, Fernando.
+Apologies for that.
+Oh no, don't worry.
+All right. Cool. I think it's bang on time. Any other quick comment, question, anything?
+So what I do need is volunteers for next week.
+So if CSP don't come forward, I think I will be emailing them to try to understand who
+will be presenting next week.
+But in the meantime, thank you very much to everybody and talk to you soon.
+Okay, thank you.
+Thank you.
+Thank you.
+Bye bye.
+Have a good day.
+Bye.
+Bye.
+Bye bye.
+So I'll keep on going with my AC.
+(soft music)
