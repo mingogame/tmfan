@@ -1,0 +1,816 @@
+restrict access to a folder and put them in there.
+I'm open to suggestions if either of those are better than the others.
+Yeah, so, Alan, so you have the mechanism to, let's say, like a
+like a Catticus project only allow a list of an email address to be able to access the folder?
+Yes, I can restrict it to because we're working in the autonomous networks project space.
+Obviously, we don't want everyone on that list to be accessing it. I can do it by name, by email.
+By name, email, okay.
+That's assuming that the contributors are happy to share it with a group.
+as regular participants in those who have signed up to do Viacoys.
+So what do you think Pedro or Juan, like in your companies, are you okay to put your
+completed questionnaire into the particular folder only accessible by list of an email address?
+or the people involving in this ANL project only?
+Yes, yes, we can upload our files, no problem.
+Okay.
+But one comment there, we have our files, our spreadsheets
+are in the interpretation questions and understanding options.
+They are our understanding in English,
+but in other columns,
+in other rows and columns,
+we add comments in Spanish.
+So the thing is not a problem.
+>> So some of us will be able to understand it.
+>> Yeah.
+>> So the apologies, I haven't kicked off the meeting properly.
+So the project meeting,
+I will randomize the IPR,
+if anyone has any IPR to share,
+either now or during the call,
+please ensure that everyone's aware of that
+before you share any IP content.
+And if it's all right with everyone,
+or record the session as usual,
+we can restrict that to the group as well if you want.
+- Recording in progress.
+- Yeah.
+And also let's say for that completed answer,
+for example, some sensitive information,
+for example, something that you do not want
+want to show, you could, you know, you could mark it or, you know, block it or something like that.
+Maybe the easiest way we could, I think, email to Alan and Alan you could put that into that
+folder once you've created. Yeah, that's fine. I'm happy to do that.
+Okay cool. So thank you Ming. Actually sorry let me just bring because I wanted to show the table.
+For today call we have planned two presentations. I think Pedro is going to start as presenting the
+telephonic responses and then we also have Juan that has completed teleconjuncting responses.
+We will analyze these two today. For next week we have STCC, I believe, and then guys, I need to
+start getting answers from the rest of the CSPs that are going to be part of this pileup to tell
+me which days they want to do their presentation. I think we have before the end of May to do this.
+And as we just say, Alan will collect,
+if you are happy to share them with Alan,
+Alan will collect your completed questionnaires
+and eventually they will be uploaded to a page
+that it will be restricted to the participants
+on the panel.
+Okay, so having said this, I think Pedro,
+I will stop sharing.
+You can start.
+Can you see my screen now?
+Yes.
+Yes.
+Yes.
+Okay.
+>> Yeah.
+>> Okay.
+Can you see in that side or put the presentation mode?
+>> Presentation.
+>> Presentation.
+You prefer presentation mode?
+>> Yeah.
+>> Okay.
+Then I would like to show you the results of our piloting in say Telefónica.
+First of all, I am going to present the Somes' Lights with the scope and process of that.
+We have followed to answer these questionnaires.
+First of all, those questions have been covered by those three countries, Brazil, Germany,
+Spain for both domains. The professor with a follow-up was, I have had meeting one-to-one
+with everybody, with every responsible in each country. I have put no limitations, I
+mean they can answer whatever they consider and the only thing I did was to explain how
+how to answer the questionary and where to look for the options and so on, but no more.
+And they have answered by their own in their time, in their data, their time.
+During this process, they gave us the responses in just less than a week, really.
+The more difficult thing was to find the right person to answer the question, which has one
+question, what was responsible for each domain and for each process.
+One thing we have done is just answer process questions.
+I mean, in Colorado question, there were both two parts about one about the process and
+the other one about the architecture.
+And from our say, we have just answered the first one.
+And because I put no limitations on the responses
+in the columns we have put a lot besides the options,
+they have answered maybe one time,
+One time they have answered out the question,
+they were required and I know that with the evidence.
+So there's a bit of complex information in our own.
+It's not complex really, but a lot of information,
+different information on our questionnaires.
+Here you have, well, first of all,
+I have responses for three countries in two domains,
+but our answer or our conclusion to this pilot
+is just a mix of those contours.
+I mean, because they are three,
+then when two countries responses A and another B,
+I put A and in the same, if two countries response B,
+then I put B.
+So more or less is the methodology I have following me
+with the question.
+Here you have our responses.
+Blue points, that means that I have reviewed
+the questions for the answers,
+and I have some doubts about the answers.
+So this is something that we have to review,
+and this is something I think is important to,
+from a point of view, is to explain it.
+We have to do the effort of explaining a bit more,
+a bit more clear what we need in each option because I think they are confused.
+And for run, our score is 288 and 274, depending on the methodology.
+And for core, for core, for core, questionary is the same methodology,
+because I have not answered questions about architecture then I have moved the
+weights to have 100% but in the same way.
+I think I have to review or we have to review we have to explain a bit more or I
+have to help the people who has answered because I think I have some those are
+of the responses.
+Later on, I can open our responses.
+Okay, but first of all, I would like to give you
+some conclusions before going deeper in the questionnaires.
+I see or we see that they are not about the pilot.
+Okay, I have, we have some conclusions about the pilot
+and other conclusions or ideas
+about the possible assessment tool
+and auditory process and so on.
+For this pilot, we don't see some substantial difference
+between both methodologies or measurement methodologies.
+We think or we saw that it could be important
+to reevaluate the weights with the scoring of each task.
+We need more clear definitions, examples and so on
+to look things clear for the people who is
+responding or answering the questionnaires.
+For me, for us, it's important to have in order to
+distribute in a company,
+in an operations organization, and so on.
+We think it's important to have
+the same categories for all questionnaires.
+We have to decide if you include intent or not,
+but in all the questionnaires for the reason,
+because maybe in some cases related to maintenance
+and evolution of the NELGORS in fact,
+is not going to be a differentiation between domains
+and maybe the formal NELGORS is responsible for all of that.
+So I think we have to have the same categories
+in all of that.
+We, as I mentioned before,
+we have, we like to separate process from architecture.
+One thing is to be possible or to have the possibility
+of, or to be included in our process.
+And on the other hand is the capabilities.
+We need to do that, but it's different.
+And one important result we have seen is that
+there's some difference between the evolution
+we have done internally and those methodologies.
+And to be more clear, in run,
+We are with this methodology, the pilot methodology,
+we are in low level of autonomy as we are,
+we are evaluating with our methodology,
+but in core we are over the value.
+So maybe, I don't know because it's so difficult
+to have just with no name questions to be more or to be
+so specific, but there are some differences
+between with our method.
+Okay, another conclusion about the assessment tool
+but it's to define the processes code,
+it's needed the disability.
+And another important thing that people have
+or is asking us is, okay, but what means to be level four,
+what means level three, it means from the point of view
+of capabilities, from the point of view of technological
+applications, OSS, whatever, I need to move
+from one level to another one.
+So first of all, this is how I want ideas,
+how we have done the study, how we have response
+to the study and our conclusions, okay?
+So then if you want, I can go through the responses
+of each, I think, of each,
+of each question that you want.
+- Yeah, I think we can do that quickly, Pedro.
+Yeah.
+But I don't know.
+OK, I can go quickly.
+This is the run question.
+Yeah.
+I'm going to-- sorry.
+OK, as you see, there are two questions,
+two columns with questions to people
+who is answering one interpretation of the question
+and another about the understanding of the option.
+So here you have what we have or what people have interpreted
+and in both cases, but as I mentioned,
+one country said, okay, if data collection is automatic
+or manually, is it good?
+But another country answer the evidence
+of why they are answering those option.
+So here you have information about both topics.
+So this is something, in this case, intent.
+I think we have answer A,
+and I don't really see that we are in A,
+not in A intent.
+So those are the questions that we have to review,
+but it's needed more,
+because I explained that it needed more information,
+or more detailed information,
+and a clear explanation,
+or I don't know, maybe some examples or so on,
+in order to clarify concepts and to clarify people,
+what clear to answer on each option.
+Okay. Oh, here you have, I can share with everybody.
+Another thinking I have is related to the ways maybe
+the warmest part is--
+- No, no, no.
+- Sure, see.
+- Sorry, can I make a question?
+- Sure.
+- For example, when your team answer option A,
+you mean that, for example, I don't know,
+in the alarm filtering or in the solution implementation.
+You mean that all alarm filtering,
+so all the processes that involves
+alarm filtering and all the processes
+that involve solution implementation are in option A,
+or it is done, I don't know, one process is in option A.
+Or one of all the alarm filter is in option A,
+or a couple of alarm filter is not all of that.
+But as you mean, because this is just a full management, so we are managing alarms from...
+Okay, we have...
+In just case, an alarm filter, by example.
+We are filtering with tools all of the alarms.
+Okay, all of the alarms.
+If a PR is new alarms, because they are new equipment, of course, we have to...
+to be again. But now we are covering this topic 100% automatic. My opinion or what I
+say the people is, okay, nobody can justify 100% okay, but you are covering 90%, 90%,
+percent is okay.
+Okay.
+And this one, Pedro.
+It's a subjective question. So it's not for me it's more important if you are doing in the major part of the time.
+I mean, almost 100.
+Pedro, one question here, here you said the answer is A, but his interpretation, he says
+he chose B.
+Yes, because this is B, but the other two were A.
+Oh, okay.
+They didn't put their opinion, so I have to add all of the information here.
+I see.
+I see.
+Okay.
+I mean, here you see with the real, real, the events for monitoring now 90.5% just the
+0.5% is handled by the monitoring.
+So this is something that they are responding to answering B in one case in another two,
+they are answering A and I think it's A because that.
+Pedro, can I make one more, please?
+Sure, you can.
+In the Internet Driven solution, maybe we need to put in common the understanding of Internet
+Driven.
+Yeah.
+You are right.
+You are right.
+It's impossible that we are in Maine, okay?
+This is one of the other answers I have put with the point.
+Yeah, with the point.
+because I think it's impossible.
+But I mentioned another exercise I would like to do here
+is okay, I give you the question and your response,
+you answer that.
+Why?
+Because my thinking is to have this tool
+in order to be used as an auditor or by an auditor
+or by a consultancy company,
+or Team Forum or whatever, but a kind of constant tense.
+So this is something that we are giving people
+from these responsible from teams.
+And okay, here are the question I answered that,
+and then I can help you, but in the first step,
+they have to answer by the execution.
+This is, this was my idea.
+- I think regarding this intent, clearly,
+So the understanding of the options,
+the rules are predefined on the form management design
+and the action is automatically executed.
+So anything that is automatically executed,
+I guess they've taken it as it is
+because it's automatically executed is fully automated.
+But the actual generation of the,
+of the entangle or when things change it,
+it's not automated, right?
+The rules needs to be defined previously.
+So I guess the understanding of these,
+the intent-driven question is probably not the same
+by everybody in this call, I guess.
+- Yeah, I think maybe Fernando, we could,
+as we suggest, we could, like when we have this kind
+of a question or we're not sure,
+we form a task force to set this
+and then bring back the recommendation.
+Maybe intent is one of the topic
+that we could form a task force to go and discuss
+and bring back the recommendation.
+- Yeah, indeed.
+- Yeah, so in this course,
+so we didn't have to get a solution,
+you see how we just identified the area,
+we do not have the agreement
+and then we go and study them separately.
+So intent is one of them, right?
+- Yeah, right.
+I think it's a difficult topic to understand just for us, so people who have never known
+about that, so it's very difficult to understand.
+Yeah, yeah.
+I can show you also the same question for, or for call, okay?
+As I mentioned, we have moved the weights
+because we have only answered until execution
+have not a concept for questions of stability.
+Stability.
+Okay, but here you have, okay, I'm going to,
+I don't know if you see.
+Here, the same.
+In our case, we have this domain less automated than run and it's giving us a more autonomy
+level.
+This is something that's so strange for us,
+but in the thing we have answered,
+and I have put all the comments that they have put here.
+All the data, all correlation,
+there's one country that are said it could be A,
+so there are a lot of doubts about that.
+But here you have our answer.
+Out here, I think this is an error on the template.
+This is a, this task is about the diagnosis, okay?
+But in the template, we put the medication and location in both fields.
+But it has been answered in the right way because the question,
+>> Following the question.
+In the same way, I see failure recovery,
+solution and decision, maybe we are in C,
+but in the vocation we are in B.
+Because of what I see during last year.
+>> From itself.
+>> Sure. Yes?
+So here you have the aurora soles, aurora valuation, and whatever you need.
+I'll send to you and you can analyze whatever you need.
+And also I'll share the slides if you...
+Pedro, so here, do you have the evidence?
+Or you collected but not just not showing here?
+No, no, no.
+This is something, this is all of the information I have collected.
+Okay.
+In fact, someone, I don't remember the country, but I think she said that they see, she said
+They see them put evidence because they understand because she understood the question.
+So this is something that, okay, to deploy the, to develop this pilot is a bit difficult
+to ask people, to arrive people in the companies, in the operation, day by day operations because
+they are so easy. And this is something that we have to do or to ask for in the
+rest of time. And it's a bit difficult to have all the information in the way of
+we need actually. Okay. When you launch a consultancy pilot or a consultancy project, then they have to do that in their job.
+but now it's just,
+some hand they are giving me or giving us.
+So, this is all the information I could gather.
+- Okay.
+Okay.
+So I have one question.
+If you go back to your slides.
+Yeah.
+Next.
+Yeah, this page.
+So the question is on the red bullet button here, different value from a different value
+from expected.
+Can you explain more about this item?
+Sure.
+Sure.
+We are involved in this autonomous network since I think two years ago.
+And in the same way we are doing this pilot or this autonomy level assessment now, we
+have done from the beginning in our company, we have done our own measurement of automation
+and autonomy level.
+And those KIPAs are KIPAs that are being followed by our CTIO.
+and this is inside our operations behavior.
+I mean, every operations group has to,
+or is following this KPA,
+every operation group has to improve the KPA
+during the years.
+So this is something that we are doing
+our own measurement.
+And this is because we have, every quarter,
+we have a value for autonomy level.
+And we are evaluated in some way,
+and somehow each process for that.
+And in case of run, we are in a higher level of 288
+from our opinion, from our measurement authority.
+and in the in the same of code we are lower than two nine.
+So this is because it's a bit different
+this evaluation when with,
+we expect or with the value that we expected for each one.
+Because we are doing the same exercise of course.
+- Okay, understand.
+- I'm not meaning this is one is better or not.
+I think it's just a conclusion for us also.
+- But you also mentioned that,
+do you know you have more automation on the run,
+but you're getting a better autonomy level on the core.
+So, at least this seems to be something wrong.
+- Yeah.
+So if I look at the run,
+since the intent now given a A, right?
+So intent given A.
+So in reality, maybe probably it's a B
+because A, at this original design,
+you have to kind of a level four
+to reach A, the kind of a level intent driven.
+So if that's a B and then the score actually even lower.
+- Yeah. - For REN.
+- I have a question.
+So for the intent here, if we select A,
+That means we use the intent and interface,
+which are defined by the RTOs, right?
+- No, the question that does not say that, Wanyin.
+So maybe we need to clarify or modify the question.
+But the question that does not specifically mention
+to use an intent API for an SDO.
+In this case, if it's run or wireless,
+it should have been a 3GPP maybe.
+But the question that doesn't--
+He doesn't say that explicitly, you don't know.
+- Okay. - Okay, thank you.
+- So according to telephonic understanding, if the task,
+again, Pedro, Kerwin and Rumba,
+if the task were automatically executed
+or understood by the system, for then that was the,
+the full intent, or it was an alien.
+- Yeah, yeah. - That's right.
+- And I, and I don't know, I think, sorry, sorry.
+- No, no, no, no, no, no.
+- I think we have some is that both of our,
+methodology is almost impossible to arrive for. Without including in all the processes
+artificial intelligence, okay? And the scale of TM forum and the definition, I don't know
+what the number of the document but they the document explained that this
+intelligence is is is needed in level four I understand that after the
+intelligence is before level four because I think from level three because
+if not it's impossible to arrive to level four with with with the process and
+and technology and applications and so on to
+pay the intelligence on the process.
+But with news methodology,
+I think it's more and more very,
+very difficult to arrive at level four.
+For me it's impossible to answer all of the questions.
+I have noticed the question what are needed
+to answer in order to our level four.
+But what I mean is I think we have to review
+or give more detail with the oceans,
+but also we need to review the score
+and the evaluation methodology
+to align the definition of each level
+with the response of our tool.
+Yeah. So in also, I see that Asian scurries hand up. Yes, federal thanks for presentation. And just, I would like to remind you a few weeks back, and I had to say, and then concern them that we had a very good conversation this round. So I think one of the limitation that we can see and then you raise also this very good. So the level, the expectation that you,
+that you as the owner of the automation has in the one of the CSV, maybe you think that
+is a limitation that we can see once we talk about level four more in the cross domain and the type
+of the question that we have for example I'm talking about the RAM or core is more we are
+focusing the single domain but based on the definition that we have or the standardization
+that we have in TM4 and once we are in the level four is more in the cross domain so that's why
+we could not see the result here based on the expectation or do you think that on top of this
+questionnaire that we have for random core and then if we want to evaluate if we are in level
+four or not we need to have kind of umbrella on top of this tool to say if we have cross-domain
+random core and we are in level four because I fully understand what you say and then it was my
+expectation that we could not go above level three and then based on the theory we should not go
+because if you are level four which means that or question should cover cross domain rather than
+on single domain. I think it's one of the limitations that we can see and was very good example that
+you shared here. Folio are with you but in this case we need to define as I mentioned in my
+conclusions, we need to define some topics or some whatever
+align with each level in order to say, okay, you are with this,
+this, this value to two or three, whatever. But if if we if you
+are not a multi domain, you are not you are not allowed to pass
+to level four, something that you can check in order to configure your level three, level
+four or whatever. Then maybe a kind of umbrella as you mentioned.
+So mandatory level capabilities, something that you must have in other countries.
+Kind of, yes. Because it's so difficult to do that.
+Right.
+And then one additional topic, do you think that here we are only talking about one use
+cases and imagine we bring more use cases in the RAM?
+I mean, I just want to challenge the wrong.
+If the method that we have or a scoring should be applied from beginning or at the end of
+few question or few use cases, then we can say in terms of the RAM beyond level three
+or in terms of the cross domain RAM and core beyond level four.
+somehow understand that this is score or this value that you're showing here is
+only for single use cases. For autonomous network we have more than
+10 of 20 use cases, depending on the domain.
+These were specifically for fault management from the start.
+Yeah, upper consistency. I think we need to move on to Telecom Argentina if that's okay.
+Okay, no problem.
+But we can...
+Pedro, sorry, one more question please.
+In the phone management, in the course,
+the course prediction, the question regarding the risk prediction
+and phone prediction, that's one.
+Okay.
+And rule four.
+Rule four.
+Yes, that one.
+you take it, taking account the capability of the network elements or the capability of the phone management?
+No, phone management. We are...
+Okay.
+We are evaluating the process, not just the capability of each network element or even the element.
+We are trying to use as much as possible the capabilities a network element manager gives to us.
+but it's for the whole process.
+- Okay, thank you.
+Because in our case, so now if you want,
+we can change.
+First of all, sorry, because we didn't know,
+this is our first time participating in a pilot
+or an experience like this one.
+So we didn't have clear about the dynamics,
+or so we didn't make a presentation,
+but right now I write some lines with our conclusions.
+So let me share it.
+And then we can see directly the spreadsheets.
+- No, don't worry, I have a problem.
+- Okay.
+I did that because I have to explain to my boss and so on so just to put it on just one time.
+Okay you put the very height.
+No no no no.
+Full presentation Pedro.
+Yeah thank you.
+Let me share.
+It's a level five presentation that one.
+Yes.
+Okay.
+Can you see my screen?
+Come in and get with it.
+Okay.
+Sorry, this is just a couple of lines that I just write it.
+So, Pedro, I take some ideas from your presentation.
+So, the first topic that we find is, well, we need to find the refer person in the company
+company to answer the questionnaire. So that takes to us between two weeks to find the
+correct person. But then after we have the answers, we are not sure if they were the
+right people. Why? Because after reviewing the questionnaire, in my case, I think that
+maybe it was not very clear whether they had finally understand.
+I think that they don't understand completely the things that they much evaluate.
+So they take the spreadsheet, they read what the spreadsheet says,
+and they answer as they understand.
+Then when we take the spreadsheet, we see all the reference, all the 3GPP reference,
+and when you go inside the reference, maybe you can find that the question has the goal
+to evaluate another thing, not the first reading and understanding that the spreadsheet says.
+So for one comment is that we have our answers that our people gave us, but I don't know
+know if that okay because the first version was like very optimistic response. So if we
+so some question we change. Nicolas, Damian and me some of that question we change it
+because we know that we are not for example in the in the level A in the level four so
+we change it.
+Yes, let me add something in line with that. What happened to us was, depending on who
+interpreted the dust, the interpretation was slightly different. For example, some experts
+on the topic that we consulted didn't have advanced knowledge of the autonomy levels.
+and perhaps the answer in the questionary is in more practical way without taking into
+account the concept for example in closed loop or in 10 etc.
+It is one problem that we detected with that.
+Okay, any question?
+Yeah.
+But other side, in the question that we need to get evidence until now, we haven't.
+So we could not get evidence until now.
+So for example, in the questions that the answer is A or B, maybe we need to go deeper
+to get the evidence. For other side, we found the ranked evaluation form, the spreadsheet
+easier or understandably than the core one. For us, it was easier than the ranked one
+than the core one. And for other side, we do not focus on the numerical value of the
+evaluation of the result, we focus on what was understood from the spreadsheets. Okay?
+So right now, maybe we can go to the wrong one first. For example, this is the question that
+I did you better. For example, in the intent drive-in, we know that our fault management
+doesn't work by intentions. So in this question, for example, in this row, we put what we understand
+that the question is a goal of the question. For example, in this question, we put that the aim is
+to know if the fault management system can work by generating tasks to solve problems and evaluate
+the result of SACE implementation. So basically it works by intentions. So in this question,
+for us, is the answer C. And I don't know, I have the other ones, I don't know if the
+goal of this space is to see all what we understand of the question or anything else. But for
+For example, in some questions we have some suggestions.
+Let me see.
+All these questions are answered
+regarding the fault management in the run spreadsheet.
+But in the core mobile spreadsheet,
+we answered some question regarding the fault management
+and others regarding directly the capabilities
+of the network elements.
+But for example, in this question,
+the, let me see.
+Maybe I can.
+- Just a question from Paulo.
+What do you mean with the capabilities of the network element
+because the network elements,
+I mean, if you have the capabilities in the environment,
+then you have these capabilities in the process.
+- Yes, exactly.
+But for example,
+I switch the spreadsheet.
+for example, in the the market location here said directory,
+what capability of fault diagnosis are support
+by the core network?
+Very fine, the fault diagnosis capability
+of the management system,
+but the assignment option is the core network.
+I don't know if this one, let me see.
+- No, maybe one up.
+- Maybe.
+- Because this is the error I,
+- No.
+- Before this question about the analysis
+and the previous one is about.
+Let me see.
+What?
+Yeah, yeah.
+There is a reference in option B and C,
+there's a reference on network elements.
+See, this one.
+This case, okay.
+This question, "Is it a very helpful and a wide course
+support proactive prevention capabilities?"
+But the first answer in this question was,
+I don't know, C or B.
+But then when we go inside these norms,
+we see that talks about directly capabilities
+of the network elements.
+And I think when I ask if our network elements has
+that capabilities or the people doesn't know if we have it
+or the answer now directly.
+So in this case, or maybe we can change the question
+but we understand that in this case,
+talk directly about the network elements,
+not about the fault management.
+>> To be honest, my intention is to evaluate the process.
+>> Yeah.
+>> When you think that the network element has capabilities,
+then they are in our complete process.
+>> Hi, Pedro.
+We think in that way too,
+but we have some experience in relating some process related
+process related to a specific and services process following the
+suggestion of TM Forum about the three axes.
+You know, when we evaluate overall, we find it more challenging to find the balance
+because we don't have all the process at the same level of autonomy.
+So here we have a lot of process in the core for the management, right?
+So it's a challenge for us to understand, okay, what is the right level?
+Because some processes are more autonomous than others.
+But we were talking about the network element level.
+So let me be provocative here.
+So my understanding is that I can have a full capability on the network element level.
+But if I'm not using this capability, my autonomy level is close to the ground, right?
+So obviously the network level elements is an enabler in a way, right?
+Because if the elements cannot, so to say, follow up with the execution of the process
+then so what, right?
+But on the other hand, the autonomous levels, we are only achieving on the higher levels,
+I mean the OSS layer, etc., and above, right?
+The execution, the systems which are supporting to drive the process.
+That's why I'm thinking that we are judging the network elements, then we are down to
+judging the vendors here because one vendor will have the capability and another one will
+not.
+So at the end of the day, what we as TM Forum, we try to avoid this, right?
+We are not trying to say this vendor is better than the other vendor.
+We are talking about the operations.
+Yes, that's right.
+Maybe we say in a wrong way that was the problem because in some cases the capability that
+the neural element has and we use in the process and in other cases not.
+So that was our problem.
+Anyway you are using from the neural element but in the process in that.
+So the process is covering that.
+And just like what you mean, in fact, we are using our evaluation methodology divided by
+vendors and we are using that to press any vendor to improve the automation and autonomy
+in our network.
+So we are using the behavior at high level in order to improve the automation at low
+level in the network.
+Well, yeah, exactly.
+So in this question, in this question again, and for conclude, our management system can
+make for example, you know, fix rules or something or things like that.
+So manually configuration of rules and make file prediction.
+But if we go to the 3CPP standards, we see that in this case, talk about the network
+element.
+So I understand that you say that we evaluate like that.
+So maybe we need to change it.
+But this is an exercise.
+Sorry, just one, I guess this is another one of those items that we may need to have a
+smaller task for to identify so everybody answers with the same view, whether we're
+looking at the process or we're looking at the network elements.
+Yeah.
+Exactly.
+Sorry, continue.
+So that is a reason because I mentioned this point, Fandok.
+Yeah, of course.
+For example, let me see because we put another comment in this one.
+The data collection and alarm correlation.
+This question is inquiring about the degree of failure related information can be collected and correlated with respect to some specific network elements.
+elements. The issue is to verify the automatic failure detection capacity of the management
+system and the correlation, uh, along correlation capacity. So in this case, if we see all together,
+we see that we are in point C, but we understand that maybe this answer can, the answer can divide
+because one thing is data filtering and other thing is the correlation. So in our case, for
+For example, for the island field, we are in option A and in correlation we are in option
+B. But if we see it together, we have not the capacity to make.
+So it's not the same.
+Okay.
+Let me see.
+I fully agree with you in that case.
+are very very different topics to be included together.
+The other one in the 11th row maybe.
+11th?
+11th, yes.
+The understanding of the auction.
+This one, Dabian?
+Yes, yes.
+In that one day, he's talking about the disaster recovery capability and the response is based
+on the capability of the mobile net and core, right?
+How are each system has different characteristics and this evaluation should be done service
+by service because we don't have the same level of the redundancy depending on the system
+because some systems are more important than others.
+So it's not all the system have the same redundancy level.
+It's the same that the other question
+is depending on the service.
+- Okay, let me check something else.
+We have more comments.
+This question is in Quorum.
+Freedom Recovery Solution Foundation.
+Well, here we have the same one.
+Here we put the answer
+regarding the network element capabilities.
+So this one, I think that we need to change it.
+If we all agree that we are talking generally
+about the fault management and not
+Regarding the network elements, we need to change this.
+Sorry, Campolo, I'm conscious that we only have three more minutes.
+We always knew that 25 minutes wasn't going to be enough to discuss each one of these
+questionnaires.
+So, I think, as mentioned, can you please, Campolo, and Pedro, send your questionnaires
+while I'm and as much is available along with putting online so I guess people
+need to provide comments on online otherwise yes yes that would be great but
+like I said at the beginning I wasn't knew how was this presentation are going
+to be so I would like to prepare the only question or the the doubts that we
+have, okay? Maybe for the next meeting, I don't know when, but I will let you put in order
+all the questions that we have, if it is possible, okay?
+Yeah, that's perfectly fine. But also in addition, obviously maybe I will discuss, Pedro and Andy and
+I should discuss, we need to create this task force. I think we will invite people to join the task
+force, at least we need to do two, one for the intent, we know that answering the intent,
+we've seen that it's really completely off between how telephonic answer and how telecon
+answer, and also regarding are we asking about the whole of the process or just any specific.
+So I want to check with that how we want to do this.
+One more, sorry Fernando, very quickly.
+For example, this question in the round one,
+the solution generation evaluation
+and decision making and solution implementation
+for the both question could be the same case.
+For example, we will have one case
+that is the possible solution is that
+to solve the problem, we need remote hands.
+So in that case, the solution for default management
+must be or could be generate a work order.
+So that kind of case are going to take in this evaluation
+because in that case when we need remote hands,
+the evaluation and decision making
+is regarding to generate a work order.
+And implementation of the solution implementation
+is what set the work order.
+because the solution of the problem is,
+it's not regarding to the system, it's remote work.
+You take my point, Fernando.
+- So when you say remote work, you mean manual work, right?
+People feel engineered. - Human work.
+Human work.
+There are tasks that always will be made by humans.
+So in that case, the solution that the system could give us
+is make the work order.
+- Yeah, make the work order and send it to the field engineer
+whoever needs to implement it. Yeah, exactly. That's all level of automation that we can have.
+Exactly. Well, my question in this point is, for example, in our case, we already have that.
+We already have that kind of solution, but not another kind of solution of automatic solution.
+So my question is, okay, in my case, it's not no, because we have that, the work order solution,
+But maybe partially it's a lot because I don't know it's a very few.
+I don't know.
+Well, it's only a comment for not know.
+Well, that's all.
+And if it is if it is possible for the next meeting, maybe I can
+prepare our doubts and our conclusions.
+Yeah, that would be good.
+And also a two more suggestion.
+One is in your network. Can you specify it's a single vendor network or multi vendor network?
+So that will help us to understand
+Uh, okay, you know if you're a single vendor, maybe your level should be higher a little bit higher
+Multi vendor. So our network will have multi vendors
+Depending on in some case, but generally we have multi vendors
+but the fault management is adopting the vendor.
+The fault management is high level,
+and we see all for our fault management.
+- Okay, yeah, just to put that,
+and also for the people who answer the questionnaire,
+maybe you could list their job function.
+Are they the knock engineer,
+or are they the foreman for a particular domain
+or something like that,
+that could also help us to understand
+Yeah, I understand the people who answered the questions.
+I think we did a run out of time.
+Pero, Pablo and the rest of the telecom Argentina team. Thank you very much.
+I knew we were going to run out of time, but I didn't realize there are so many questions around the table that are really about with three or four hours, rather than one.
+But I can also ask all the CSPs please send us the dates where you're planning to do your
+presentations. For next week Juan Pardo you can just present your questions and then I think
+currently we have a CTC planned for next week. Hopefully there will be additional CSPs. And as
+I say I will discuss in Tel Aviv and the and Pedro how we're going to organize the task forces
+and invite people for those task forces.
+Okay.
+So thank you.
+What were we, we,
+a blow out the fights?
+Just send them to Alan Pope for the time being.
+Alan will organize the space.
+Okay, okay.
+Well, thank you.
+Thank you.
+Thank you.
+Yeah, thank you.
+You're really great.
+Bye.
+Thank you.
+Bye-bye.
+Bye-bye.
+Thank you all.
+Very good.
+Very enlightening.
+Thank you.
+[SOUND]
+(buzzing)
